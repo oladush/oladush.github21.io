@@ -1,0 +1,25 @@
+#gif_1{
+    height: 670px;
+    margin: auto;
+    position: relative;
+    top: 50%
+}
+#block{
+    margin: 0;
+    position: absolute;
+    top: 48%;
+    left: 49%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+#audio{
+    margin: 0;
+    position: absolute;
+    top: 96%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+body{
+    background-color: #c4ff7e;
+}
